@@ -1,0 +1,1 @@
+printf(" Column sum = %d",rsum);
